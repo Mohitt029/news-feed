@@ -1,0 +1,12 @@
+streamlit
+python-dotenv
+langchain
+langchain-community
+langchain-google-genai
+unstructured
+faiss-cpu
+tiktoken
+newspaper3k
+lxml[html_clean]
+tenacity
+google-api-python-client
