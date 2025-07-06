@@ -31,6 +31,16 @@ Welcome to the **Global Insight Hub**, a Streamlit-based application powered by 
 git clone https://github.com/Mohitt029/news-feed.git
 cd news-feed
 ```
-```run
+### Set Up a Virtual Environment
+```bash
+python -m venv venv
+venv\Scripts\activate
+```
+### Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+### Run the Streamlit app
+```bash
 streamlit run main.py
 ```
